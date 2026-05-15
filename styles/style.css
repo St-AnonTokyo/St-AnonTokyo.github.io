@@ -19,7 +19,8 @@ html{
 }
 
 body{
-    width:auto;
+    width:80%;
+    max-width:1200px;
     margin:0 auto;
     background-color:#b4bfc0;
     padding:0 20px 20px 20px;
@@ -44,5 +45,6 @@ p,li{
 img{
     display:block;
     margin:0 auto;
-    width:800px;
+    width:100%;
+    max-width:1200px;
 }
