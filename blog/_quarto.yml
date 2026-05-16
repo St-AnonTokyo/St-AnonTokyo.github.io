@@ -9,10 +9,12 @@ website:
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
   navbar:
     left:
-      - index.qmd
-        text: "主页" 
-      - about.qmd
-        text: "关于"
+      -  text: "主页" 
+         href: index.qmd
+      -  text: "关于"
+         href: about.qmd
+  page-footer:
+    center: "2026 AnchoraCloud. Done with quarto."
 
 format:
   html:
@@ -21,6 +23,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    code-copy: true
 
 
 
