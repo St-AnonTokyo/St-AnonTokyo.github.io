@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ../docs/home
+  output-dir: ../home
 
 website:
   title: "AnchoraCloud"
@@ -9,10 +9,16 @@ website:
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
   navbar:
     left:
-      -  text: "主页" 
-         href: index.qmd
-      -  text: "关于"
-         href: about.qmd
+      - text: "主页" 
+        href: index.qmd
+      - text: "关于"
+        href: about.qmd
+      - text: "文章"
+        href: articles/index.qmd
+      - text: "小说"
+        href: novels/index.qmd
+      - text: "笔记"
+        href: notes/index.qmd
   page-footer:
     center: "2026 AnchoraCloud. Done with quarto."
 
