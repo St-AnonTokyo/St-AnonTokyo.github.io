@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ../docs/blog
+  output-dir: ../docs/home
 
 website:
   title: "AnchoraCloud"
