@@ -42,10 +42,26 @@ h1{
     text-shadow:3px 3px 1px black;
 }
 
-p,li{
+h2{
+    font-size:40px;
+    font-family: "Noto Serif SC", serif;
+    text-align:center;
+    margin:0;
+    padding:20px 0;
+    text-shadow:3px 3px 1px grey;
+}
+
+p{
     font-family: "Ma Shan Zheng", cursive;
     font-size:20px;
     line-height:1.2;
+    letter-spacing:1px;
+}
+
+li{
+    font-family: "Noto Serif SC", serif;
+    font-size:20px;
+    line-height:1.5;
     letter-spacing:1px;
 }
 

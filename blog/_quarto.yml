@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: ../blog
+
+website:
+  title: "AnchoraCloud"
+  description: "It's a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment."
+  site-url: https://st-anontokyo.github.io/blog
+  repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
