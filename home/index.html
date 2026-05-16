@@ -135,10 +135,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#这个网站是做什么的" id="toc-这个网站是做什么的" class="nav-link active" data-scroll-target="#这个网站是做什么的">“这个网站是做什么的？”</a>
-  <ul class="collapse">
-  <li><a href="#这是一个个人网站主要作用是用来托管我的文字与想法也许之后也会放一些课程笔记如果我愿意记的话" id="toc-这是一个个人网站主要作用是用来托管我的文字与想法也许之后也会放一些课程笔记如果我愿意记的话" class="nav-link" data-scroll-target="#这是一个个人网站主要作用是用来托管我的文字与想法也许之后也会放一些课程笔记如果我愿意记的话">这是一个个人网站，主要作用是用来托管我的文字与想法，也许之后也会放一些课程笔记（如果我愿意记的话）。</a></li>
-  </ul></li>
+  <li><a href="#这个网站是做什么的" id="toc-这个网站是做什么的" class="nav-link active" data-scroll-target="#这个网站是做什么的">“这个网站是做什么的？”</a></li>
   </ul>
 </nav>
     </div>
@@ -164,13 +161,11 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="这个网站是做什么的" class="level2">
-<h2 class="anchored" data-anchor-id="这个网站是做什么的">“这个网站是做什么的？”</h2>
-<section id="这是一个个人网站主要作用是用来托管我的文字与想法也许之后也会放一些课程笔记如果我愿意记的话" class="level3">
-<h3 class="anchored" data-anchor-id="这是一个个人网站主要作用是用来托管我的文字与想法也许之后也会放一些课程笔记如果我愿意记的话">这是一个个人网站，主要作用是用来托管我的文字与想法，也许之后也会放一些课程笔记（如果我愿意记的话）。</h3>
+<section id="这个网站是做什么的" class="level3">
+<h3 class="anchored" data-anchor-id="这个网站是做什么的">“这个网站是做什么的？”</h3>
+<p>这是一个个人网站，主要作用是用来托管我的文字与想法，也许之后也会放一些课程笔记（如果我愿意记的话）。</p>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->
@@ -247,7 +242,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/st-anontokyo\.github\.io\/blog");
+        var filterRegex = new RegExp("https:\/\/st-anontokyo\.github\.io\/home");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
