@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ../blog
+  output-dir: ../docs/blog
 
 website:
   title: "AnchoraCloud"
@@ -9,9 +9,10 @@ website:
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - index.qmd
+        text: "主页" 
       - about.qmd
+        text: "关于"
 
 format:
   html:
