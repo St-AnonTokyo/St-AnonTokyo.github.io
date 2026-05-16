@@ -1,7 +1,7 @@
 ---
-title: "AnchoraCloud"
+title: "抛锚的云の个人空间"
 ---
 
-This is a Quarto website.
+## “这个网站是做什么的？”
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### 这是一个个人网站，主要作用是用来托管我的文字与想法，也许之后也会放一些课程笔记（如果我愿意记的话）。

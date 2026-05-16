@@ -9,6 +9,8 @@ website:
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
   navbar:
     left:
+      - text: "起始页"
+        href: https://st-anontokyo.github.io
       - text: "主页" 
         href: index.qmd
       - text: "关于"
@@ -30,6 +32,11 @@ format:
     css: styles.css
     toc: true
     code-copy: true
+    include-in-header:
+      text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@100..900&family=Noto+Serif+SC:wght@200..900&display=swap" rel="stylesheet">
+          <link rel="icon" type="image/png" sizes="32x32" href="/apple-touch-icon.png"/>
+          <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
 
 
 
