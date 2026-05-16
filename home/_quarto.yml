@@ -3,7 +3,7 @@ project:
   output-dir: ../home
 
 website:
-  title: "AnchoraCloud"
+  title: "抛锚的云の个人空间"
   description: "It's a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment."
   site-url: https://st-anontokyo.github.io/home
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
