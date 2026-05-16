@@ -1,7 +1,5 @@
 ---
 title: "抛锚的云の个人空间"
-author: "AnchoraCloud"
-date: "2026.5.16"
 logo: /apple-touch-icon.png
 ---
 

@@ -22,7 +22,12 @@ website:
       - text: "笔记"
         href: notes/index.qmd
   page-footer:
-    center: "2026 AnchoraCloud. Done with quarto."
+    left: |
+      Published by AnchoraCloud, 2026.
+
+      Built with quarto.
+
+      Email: Micky8874@outlook.com
 
 format:
   html:
