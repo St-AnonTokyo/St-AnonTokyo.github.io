@@ -17,10 +17,19 @@ website:
         href: about.qmd
       - text: "文章"
         href: articles/index.qmd
+        menu:
+          - text: "年度总结"
+            href: articles/summary/index.qmd
       - text: "小说"
         href: novels/index.qmd
       - text: "笔记"
         href: notes/index.qmd
+  
+    listings:
+      - id: articles-summary
+        contents: articles/summary
+        type: default
+
   page-footer:
     left: |
       Published by AnchoraCloud, 2026.
