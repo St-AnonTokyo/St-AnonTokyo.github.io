@@ -20,15 +20,14 @@ website:
         menu:
           - text: "年度总结"
             href: articles/summary/index.qmd
+            menu:
+              - text: "2025"
+                href: articles/summary/s2025.qmd
       - text: "小说"
         href: novels/index.qmd
       - text: "笔记"
         href: notes/index.qmd
-  
-    listings:
-      - id: articles-summary
-        contents: articles/summary
-        type: default
+
 
   page-footer:
     left: |
