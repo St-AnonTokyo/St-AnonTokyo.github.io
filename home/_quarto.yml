@@ -29,16 +29,15 @@ website:
         href: notes/index.qmd
 
 
-  page-footer:
-    left: |
-      Published by AnchoraCloud, 2026.
-
-      Built with quarto.
-
-      Email: Micky8874@outlook.com
-
 format:
   html:
+    page-footer:
+      left: |
+        Published by AnchoraCloud, 2026.
+
+        Built with quarto.
+
+        Email: Micky8874@outlook.com
     theme:
       - cosmo
       - brand

@@ -1,4 +1,10 @@
 ---
+title: "文章"
+listing:
+  categories: true
+  type: grid
+  contents:
+    - "/summary/index.qmd"
 ---
 
 这里存放着我的一些文章
