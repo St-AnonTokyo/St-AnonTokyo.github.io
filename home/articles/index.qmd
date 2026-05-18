@@ -3,6 +3,9 @@ title: "文章"
 listing:
   categories: true
   type: grid
+  sort:
+    - "date"
+    - "title desc"
   contents:
     - "/summary/index.qmd"
 ---

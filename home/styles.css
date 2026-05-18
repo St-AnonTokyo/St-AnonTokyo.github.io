@@ -53,7 +53,7 @@ h2{
 
 p{
     font-family: "Noto Serif SC", serif;
-    font-size:20px;
+    font-size: clamp(16px,2.5vw,20px);
     line-height:1.2;
     letter-spacing:1px;
     text-indent: 2em;

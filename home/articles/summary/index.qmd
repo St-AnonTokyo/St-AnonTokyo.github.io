@@ -1,5 +1,7 @@
 ---
-title: "年度总结"
+title: "年终总结"
+description: "不要忘记过去的自己"
+image: "/sense.png"
 listing:
     type: table
     categories: true
