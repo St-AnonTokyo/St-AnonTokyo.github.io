@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/novels/index.html",
+    "items": [
+      "/novels/short/index.html"
+    ]
+  },
+  {
     "listing": "/articles/summary/index.html",
     "items": [
       "/articles/summary/s2025.html"
@@ -9,6 +15,12 @@
     "listing": "/articles/index.html",
     "items": [
       "/articles/summary/index.html"
+    ]
+  },
+  {
+    "listing": "/novels/short/index.html",
+    "items": [
+      "/novels/short/princess.html"
     ]
   }
 ]

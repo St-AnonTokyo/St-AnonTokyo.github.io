@@ -1,0 +1,9 @@
+---
+title: "短篇"
+description: "free short passages"
+listing:
+    type: table
+    categories: true
+    contents:
+        - "/princess.qmd"
+---

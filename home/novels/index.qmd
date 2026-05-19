@@ -1,0 +1,12 @@
+---
+title: “小说”
+listing:
+  categories: true
+  type: grid
+  sort:
+    - "date"
+    - "title desc"
+  contents:
+    - "/short/index.qmd"
+---
+

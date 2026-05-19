@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://st-anontokyo.github.io/home/novels/short/princess.html</loc>
+    <lastmod>2026-05-19T15:31:59.077Z</lastmod>
+  </url>
+  <url>
+    <loc>https://st-anontokyo.github.io/home/novels/index.html</loc>
+    <lastmod>2026-05-19T15:23:41.356Z</lastmod>
+  </url>
+  <url>
     <loc>https://st-anontokyo.github.io/home/index.html</loc>
     <lastmod>2026-05-16T14:20:36.518Z</lastmod>
   </url>
@@ -19,5 +27,9 @@
   <url>
     <loc>https://st-anontokyo.github.io/home/articles/summary/s2025.html</loc>
     <lastmod>2026-05-17T16:19:44.635Z</lastmod>
+  </url>
+  <url>
+    <loc>https://st-anontokyo.github.io/home/novels/short/index.html</loc>
+    <lastmod>2026-05-19T15:26:25.501Z</lastmod>
   </url>
 </urlset>
