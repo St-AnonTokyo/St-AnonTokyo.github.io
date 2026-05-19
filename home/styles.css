@@ -73,3 +73,8 @@ img{
     width:100%;
     max-width:1200px;
 }
+
+.quarto-listing .thumbnail img{
+    height: auto !important;
+    object-fit: contain;
+}
