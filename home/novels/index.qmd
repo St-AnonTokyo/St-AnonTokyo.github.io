@@ -1,5 +1,5 @@
 ---
-title: “小说”
+title: "小说"
 listing:
   categories: true
   type: grid
