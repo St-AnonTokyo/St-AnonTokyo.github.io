@@ -1,0 +1,15 @@
+---
+title: "随笔"
+subtitle: "合集"
+description: "some short essays"
+image: "essay.png"
+listing:
+    type: table
+    categories: true
+    fields: [title,author,date]
+    contents:
+        - "/ritan.qmd"
+        - "/essay1.qmd"
+---
+
+随笔随笔，笔随心动。虽难为脊梁，亦足聊以宽慰。

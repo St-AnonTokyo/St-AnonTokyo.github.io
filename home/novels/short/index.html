@@ -6,7 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="free short passages">
+<meta name="description" content="free short stories">
 
 <title>短篇 – 抛锚的云の个人空间</title>
 <style>
@@ -83,9 +83,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-subtitle','listing-author','listing-image','listing-date','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -193,7 +193,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUU1JUE1JTg3JUU1JUI5JUJC">奇幻 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUU3JUFCJUE1JUU4JUFGJTlE">童话 <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="JUU1JUI3JUE1JUU0JUI4JTlBJUU1JThDJTk2">工业化 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUU3JTkwJTg2JUU2JTgzJUIz">理想 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUU1JUE1JTg3JUU1JUI5JUJC">奇幻 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUU1JTkwJThDJUU0JUJBJUJB">同人 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUU3JUFCJUE1JUU4JUFGJTlE">童话 <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -204,7 +204,7 @@ window.Quarto = {
 
 <div>
   <div class="description">
-    free short passages
+    free short stories
   </div>
 </div>
 
@@ -225,67 +225,65 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-title-sort" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-author" data-direction="asc">
-        Author
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="JUU1JUI3JUE1JUU0JUI4JTlBJUU1JThDJTk2JTJDJUU1JTkwJThDJUU0JUJBJUJBJTJDJUU3JTkwJTg2JUU2JTgzJUIz" data-listing-date-sort="1688054400000" data-listing-file-modified-sort="1779248283723" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="thumbnail"><a href="../../novels/short/meet.html" class="no-external">
+
+<img loading="lazy" src="../../novels/short/desert.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../novels/short/meet.html" class="no-external">从沙漠到天空</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../novels/short/meet.html" class="no-external">偶遇</a>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
+</div>
+<div class="metadata">
+<a href="../../novels/short/meet.html" class="no-external">
+<div class="listing-date">
+Jun 30, 2023
+</div>
+<div class="listing-author">
+AnchoraCloud
+</div>
+<div class="metadata-value listing-word-count">
+3 words
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="JUU1JUE1JTg3JUU1JUI5JUJCJTJDJUU3JUFCJUE1JUU4JUFGJTlE" data-listing-date-sort="1779120000000" data-listing-file-modified-sort="1779248252183" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="../../novels/short/princess.html" class="no-external">
 
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
+<img loading="lazy" src="../../novels/short/princess.png" class="thumbnail-image">
 
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-categories="JUU1JUE1JTg3JUU1JUI5JUJCJTJDJUU3JUFCJUE1JUU4JUFGJTlE" data-listing-date-sort="1779120000000" data-listing-file-modified-sort="1779204719077" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="公主、骑士与恶龙的故事--新编" data-listing-filename-sort="princess.qmd">
-<td>
-<span class="listing-date">May 19, 2026</span>
-</td>
-<td>
-<a href="../../novels/short/princess.html" class="title listing-title">公主、骑士与恶龙的故事–新编</a>
-</td>
-<td>
-<span class="listing-author">AnchoraCloud </span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../novels/short/princess.html" class="no-external">公主、骑士与恶龙的故事–新编</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../novels/short/princess.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../novels/short/princess.html" class="no-external">
+<div class="listing-date">
+May 19, 2026
+</div>
+<div class="listing-author">
+AnchoraCloud
+</div>
+<div class="metadata-value listing-word-count">
+1 words
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

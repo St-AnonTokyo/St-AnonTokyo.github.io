@@ -1,9 +1,12 @@
 ---
 title: "短篇"
-description: "free short passages"
+description: "free short stories"
+image: "bird.png"
 listing:
-    type: table
+    type: default
     categories: true
+    fields: [title,subtitle,author,image,date]
     contents:
         - "/princess.qmd"
+        - "/meet.qmd"
 ---

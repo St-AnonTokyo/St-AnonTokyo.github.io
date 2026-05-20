@@ -1,6 +1,5 @@
 ---
 title: "抛锚的云の个人空间"
-logo: /apple-touch-icon.png
 ---
 
 ### 关于本网站
