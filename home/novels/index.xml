@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>抛锚的云の个人空间</title>
+<link>https://st-anontokyo.github.io/home/novels/</link>
+<atom:link href="https://st-anontokyo.github.io/home/novels/index.xml" rel="self" type="application/rss+xml"/>
+<description>It&#39;s a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment.</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Wed, 20 May 2026 09:19:36 GMT</lastBuildDate>
+<item>
+  <title>短篇</title>
+  <link>https://st-anontokyo.github.io/home/novels/short/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="JUU1JUI3JUE1JUU0JUI4JTlBJUU1JThDJTk2JTJDJUU1JTkwJThDJUU0JUJBJUJBJTJDJUU3JTkwJTg2JUU2JTgzJUIz" data-listing-date-sort="1688054400000" data-listing-file-modified-sort="1779248283723" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="thumbnail"><a href="../../novels/short/meet.html" class="no-external">
+
+<img loading="lazy" src="https://st-anontokyo.github.io/home/novels/short/desert.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+
+<div class="listing-subtitle">
+<a href="../../novels/short/meet.html" class="no-external">偶遇</a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../novels/short/meet.html" class="no-external">
+<div class="listing-date">
+Jun 30, 2023
+</div>
+<div class="listing-author">
+AnchoraCloud
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="JUU1JUE1JTg3JUU1JUI5JUJCJTJDJUU3JUFCJUE1JUU4JUFGJTlE" data-listing-date-sort="1779120000000" data-listing-file-modified-sort="1779251986979" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="../../novels/short/princess.html" class="no-external">
+
+<img loading="lazy" src="https://st-anontokyo.github.io/home/novels/short/princess.png" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+
+<div class="listing-subtitle">
+<a href="../../novels/short/princess.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../novels/short/princess.html" class="no-external">
+<div class="listing-date">
+May 19, 2026
+</div>
+<div class="listing-author">
+AnchoraCloud
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <guid>https://st-anontokyo.github.io/home/novels/short/</guid>
+  <pubDate>Wed, 20 May 2026 09:19:36 GMT</pubDate>
+  <media:content url="https://st-anontokyo.github.io/home/novels/short/bird.png" medium="image" type="image/png" height="116" width="144"/>
+</item>
+</channel>
+</rss>

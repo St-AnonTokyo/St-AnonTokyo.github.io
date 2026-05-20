@@ -7,6 +7,17 @@ website:
   description: "It's a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment."
   site-url: https://st-anontokyo.github.io/home
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
+  page-footer:
+    left: |
+      © 2026 AnchoraCloud
+
+      built with Quarto
+
+  cookie-consent: 
+    type: implied
+    style: headline
+    palette: light
+    language: zh
   navbar:
     left:
       - text: "起始页"
@@ -31,13 +42,6 @@ website:
 
 format:
   html:
-    page-footer:
-      left: |
-        Published by AnchoraCloud, 2026.
-
-        Built with quarto.
-
-        Email: Micky8874@outlook.com
     theme:
       - cosmo
       - brand

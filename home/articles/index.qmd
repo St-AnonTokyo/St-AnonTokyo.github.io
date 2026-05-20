@@ -3,6 +3,7 @@ title: "文章"
 listing:
   categories: true
   type: grid
+  feed: true
   fields: [title,subtitle,description,image]
   sort:
     - "date"
