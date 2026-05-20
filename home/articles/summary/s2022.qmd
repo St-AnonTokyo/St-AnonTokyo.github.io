@@ -3,6 +3,7 @@ title: "写给我的2022"
 author: "AnchoraCloud"
 date: "2023-02-04"
 categories: [生活]
+comments: false
 ---
 
 2022年，对于我来说，是极为特别的一年。

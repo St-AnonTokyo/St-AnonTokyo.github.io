@@ -3,6 +3,7 @@ title: "年终总结"
 subtitle: "合集"
 description: "Don't forget the past self"
 image: "sense.png"
+comments: false
 listing:
     type: table
     categories: true

@@ -1,0 +1,16 @@
+---
+title: "诗歌"
+subtitle: "合集"
+description: "some short poems"
+image: "poem.jpg"
+comments: false
+listing:
+    type: table
+    fields: [date,title,author]
+    categories: false
+    contents:
+        - "/light.qmd"
+        - "/cat.qmd"
+---
+
+我不会写诗，这些都是作业

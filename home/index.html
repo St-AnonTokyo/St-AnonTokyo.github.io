@@ -317,6 +317,9 @@ cookieconsent.run({
 </div>
       </div> <!-- /container-fluid -->
     </nav>
+  <div id="quarto-announcement" data-announcement-id="aaf6f9016f3c8511aca5bc79432c0e6a" class="alert alert-info hidden"><i class="bi bi-cake2-fill quarto-announcement-icon"></i><div class="quarto-announcement-content">
+<p><strong>祝我19岁生日快乐！</strong> <em>Happy birthday to myself!</em></p>
+</div><i class="bi bi-x-lg quarto-announcement-action"></i></div>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
@@ -330,6 +333,7 @@ cookieconsent.run({
   <li><a href="#关于本网站" id="toc-关于本网站" class="nav-link active" data-scroll-target="#关于本网站">关于本网站</a></li>
   <li><a href="#什么是抛锚的云" id="toc-什么是抛锚的云" class="nav-link" data-scroll-target="#什么是抛锚的云">什么是抛锚的云？</a></li>
   <li><a href="#建这个网站的初衷" id="toc-建这个网站的初衷" class="nav-link" data-scroll-target="#建这个网站的初衷">建这个网站的初衷</a></li>
+  <li><a href="#这个网站的未来" id="toc-这个网站的未来" class="nav-link" data-scroll-target="#这个网站的未来">这个网站的未来</a></li>
   </ul>
 </nav>
     </div>
@@ -367,8 +371,13 @@ cookieconsent.run({
 <section id="建这个网站的初衷" class="level3">
 <h3 class="anchored" data-anchor-id="建这个网站的初衷">建这个网站的初衷</h3>
 <p>在大一学年的课程学习中，我参考了很多前辈的笔记本，并从中受益良多。💡这启发了我：我也可以搭建一个属于自己的个人博客，用于记录与思索。但鉴于本人水平有限，对课内知识的掌握程度还远没有到能教授别人的层次，所以会更多地放一些与学业无关的内容，以供消闲解闷。</p>
-<p>我最近才开始接触前端，对于html和css的认知仅停留在很基础的水平，这个网站主要是借助强大的Quarto工具搭建。目前网站的功能还较少，但随着我的进一步探索，它以后应该会越来越丰富。</p>
-<p>如果您喜欢这个网站里的内容，可以给作者买一根冰淇淋😚</p>
+<p>我最近才开始接触前端开发，对于html和css的认知仅停留在相当基础的水平，这个网站主要是借助Quarto搭建的。目前网站的功能还较少，但随着我的进一步探索，它以后大概会越来越丰富。</p>
+</section>
+<section id="这个网站的未来" class="level3">
+<h3 class="anchored" data-anchor-id="这个网站的未来">这个网站的未来</h3>
+<p>至少在本科阶段，我会把它当作个人博客，定期维护并更新内容。如果未来出于某些原因不得不放弃它(如Github Page过载)，它也会被保留下来，作为一种回忆。</p>
+<p>在网站的开发过程中，势必会遇到各种问题，加之本人技术水平不足，当前仅实现了网站最基本的功能。在建设过程中，如果有什么建议或问题，欢迎在下方的评论区留言😸！</p>
+<p><br><br><br> 如果您喜欢这个网站里的内容，可以给作者买一根冰淇淋😚</p>
 <p><img src="money.png" alt="收款码"></p>
 
 
@@ -788,6 +797,38 @@ cookieconsent.run({
     }
   });
   </script>
+<input type="hidden" id="giscus-base-theme" value="preferred_color_scheme">
+<input type="hidden" id="giscus-alt-theme" value="preferred_color_scheme">
+<script>
+  function loadGiscus() {
+    // Function to get the theme based on body class
+    const getTheme = () => {
+      let baseTheme = document.getElementById('giscus-base-theme').value;
+      let altTheme = document.getElementById('giscus-alt-theme').value;
+      if (authorPrefersDark) {
+          [baseTheme, altTheme] = [altTheme, baseTheme];
+      }
+      return document.body.classList.contains('quarto-dark') ? altTheme : baseTheme;
+    };
+    const script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.dataset.repo = "St-AnonTokyo/St-AnonTokyo.github.io";
+    script.dataset.repoId = "R_kgDOSdYTwQ";
+    script.dataset.category = "Announcements";
+    script.dataset.categoryId = "DIC_kwDOSdYTwc4C9dKK";
+    script.dataset.mapping = "pathname";
+    script.dataset.reactionsEnabled = "1";
+    script.dataset.emitMetadata = "0";
+    script.dataset.inputPosition = "top";
+    script.dataset.theme = getTheme();
+    script.dataset.lang = "zh-CN";
+    script.crossOrigin = "anonymous";
+    // Append the script to the desired div instead of at the end of the body
+    document.getElementById("quarto-content").appendChild(script);
+  }
+  loadGiscus();
+</script>
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">

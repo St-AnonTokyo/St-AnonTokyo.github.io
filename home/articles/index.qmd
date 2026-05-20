@@ -1,6 +1,7 @@
 ---
 title: "文章"
 lang: zh
+comments: false
 listing:
   categories: true
   type: grid
@@ -12,6 +13,8 @@ listing:
   contents:
     - "/summary/index.qmd"
     - "/essays/index.qmd"
+    - "/argument/index.qmd"
+    - "/poems/index.qmd"
 ---
 
 这里存放着我写过的一些文章

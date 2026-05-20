@@ -3,13 +3,14 @@ title: "随笔"
 subtitle: "合集"
 description: "some short essays"
 image: "essay.jpg"
+comments: false
 listing:
     type: table
     categories: true
     fields: [date,title,author]
     contents:
         - "/ritan.qmd"
-        - "/essay1.qmd"
+        - "/citywalk.qmd"
 ---
 
-随笔随笔，笔随心动。虽难为脊梁，亦足聊以宽慰。
+随笔随笔，笔随心动。虽难为脊梁，亦可聊以宽慰。

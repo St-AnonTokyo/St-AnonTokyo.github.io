@@ -5,7 +5,7 @@ lang: zh
 
 ### 身份
 
-一个平平无奇的ZJUer&&CS-student
+一个平平无奇的ZJUer&CS_student
 
 ### 性格
 

@@ -2,6 +2,7 @@
 title: "短篇"
 description: "free short stories"
 image: "bird.png"
+comments: false
 listing:
     type: default
     categories: true

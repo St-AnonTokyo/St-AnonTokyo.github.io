@@ -1,6 +1,7 @@
 ---
 title: "小说"
 lang: zh
+comments: false
 listing:
   categories: true
   type: grid

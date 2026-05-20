@@ -16,17 +16,40 @@
     ]
   },
   {
-    "listing": "/articles/essays/index.html",
+    "listing": "/articles/poems/index.html",
     "items": [
-      "/articles/essays/ritan.html",
-      "/articles/essays/essay1.html"
+      "/articles/poems/cat.html",
+      "/articles/poems/light.html"
     ]
   },
   {
     "listing": "/articles/index.html",
     "items": [
       "/articles/essays/index.html",
+      "/articles/poems/index.html",
+      "/articles/argument/index.html",
       "/articles/summary/index.html"
+    ]
+  },
+  {
+    "listing": "/articles/essays/index.html",
+    "items": [
+      "/articles/essays/citywalk.html",
+      "/articles/essays/ritan.html"
+    ]
+  },
+  {
+    "listing": "/articles/argument/index.html",
+    "items": [
+      "/articles/argument/hist.html",
+      "/articles/argument/harmoflict.html",
+      "/articles/argument/worship.html",
+      "/articles/argument/exam.html",
+      "/articles/argument/geng.html",
+      "/articles/argument/alone.html",
+      "/articles/argument/distance.html",
+      "/articles/argument/play.html",
+      "/articles/argument/essay1.html"
     ]
   },
   {

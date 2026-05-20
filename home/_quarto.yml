@@ -7,6 +7,25 @@ website:
   description: "It's a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment."
   site-url: https://st-anontokyo.github.io/home
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
+  announcement:
+    icon: cake2-fill
+    dismissable: true
+    content: "**祝我19岁生日快乐！**   *Happy birthday to myself!*"
+    type: info
+    position: below-navbar
+  comments:
+    giscus:
+      repo: "St-AnonTokyo/St-AnonTokyo.github.io"
+      repo-id: "R_kgDOSdYTwQ"
+      category: "Announcements"
+      category-id: "DIC_kwDOSdYTwc4C9dKK"
+      mapping: "pathname"
+      reactions-enabled: true
+      input-position: "top"
+      theme: "preferred_color_scheme"
+      language: "zh-CN"
+      loading: "lazy"
+
   page-footer:
     left: |
       © 2026 AnchoraCloud

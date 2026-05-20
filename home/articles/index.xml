@@ -10,7 +10,7 @@
 <atom:link href="https://st-anontokyo.github.io/home/articles/index.xml" rel="self" type="application/rss+xml"/>
 <description>It&#39;s a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment.</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Wed, 20 May 2026 11:12:45 GMT</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 14:10:35 GMT</lastBuildDate>
 <item>
   <title>随笔</title>
   <link>https://st-anontokyo.github.io/home/articles/essays/</link>
@@ -20,7 +20,7 @@
 
 
 
-<p>随笔随笔，笔随心动。虽难为脊梁，亦足聊以宽慰。</p>
+<p>随笔随笔，笔随心动。虽难为脊梁，亦可聊以宽慰。</p>
 
 
 
@@ -71,7 +71,20 @@
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="JUU3JTk0JTlGJUU2JUI0JUJCJTJDJUU3JUJFJThF" data-listing-date-sort="1700496000000" data-listing-file-modified-sort="1779245421346" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="我与日坛" data-listing-filename-sort="ritan.qmd">
+<tr data-index="0" data-categories="JUU2JUI2JTg4JUU5JTgxJUEzJTJDJUU1JTkzJUIyJUU2JTgwJTlE" data-listing-date-sort="1703260800000" data-listing-file-modified-sort="1779282056863" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="citywalk" data-listing-filename-sort="citywalk.qmd">
+<td>
+<span class="listing-date">Dec 23, 2023</span>
+</td>
+<td>
+<a href="../../articles/essays/citywalk.html" class="title listing-title">citywalk</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="JUU3JTk0JTlGJUU2JUI0JUJCJTJDJUU3JUJFJThF" data-listing-date-sort="1700496000000" data-listing-file-modified-sort="1779277368222" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="我与日坛" data-listing-filename-sort="ritan.qmd">
 <td>
 <span class="listing-date">Nov 21, 2023</span>
 </td>
@@ -84,12 +97,278 @@
 
 </tr>
 
-<tr data-index="1" data-categories="JUU1JTkzJUIyJUU2JTgwJTlE" data-listing-file-modified-sort="1779245703587" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="随笔1" data-listing-filename-sort="essay1.qmd">
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <guid>https://st-anontokyo.github.io/home/articles/essays/</guid>
+  <pubDate>Wed, 20 May 2026 14:10:35 GMT</pubDate>
+  <media:content url="https://st-anontokyo.github.io/home/articles/essays/essay.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>诗歌</title>
+  <link>https://st-anontokyo.github.io/home/articles/poems/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>我不会写诗，这些都是作业</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-date-sort="1774886400000" data-listing-file-modified-sort="1779284745190" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="34" data-listing-title-sort="Cat" data-listing-filename-sort="cat.qmd">
+<td>
+<span class="listing-date">Mar 31, 2026</span>
+</td>
+<td>
+<a href="../../articles/poems/cat.html" class="title listing-title">Cat</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-date-sort="1699113600000" data-listing-file-modified-sort="1779284718500" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="光恋影" data-listing-filename-sort="light.qmd">
+<td>
+<span class="listing-date">Nov 5, 2023</span>
+</td>
+<td>
+<a href="../../articles/poems/light.html" class="title listing-title">光恋影</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <guid>https://st-anontokyo.github.io/home/articles/poems/</guid>
+  <pubDate>Wed, 20 May 2026 14:10:35 GMT</pubDate>
+  <media:content url="https://st-anontokyo.github.io/home/articles/poems/poem.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>议论</title>
+  <link>https://st-anontokyo.github.io/home/articles/argument/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>议论是一种主观性很强的文体，它的主观性不像诗歌或者散文——作者的主观表达可以有不同的解读——而有一种“以吾辈之所主张为必是”的权威性。在阅读别人的议论时，很容易因为某个微小的观点冲突而难忍恼怒；在阐释自己的议论时，又很容易陷入自我的思维中，用某些语言技巧轻而易举地让假想敌们臣服在身前。我在高中的时候写过很多议论文，好吧，任何读过高中的人都是如此。写这些文章的时候，我的想法是什么样的呢？我已经不记得了，不过我知道，那里面有很多观点我已不再认同，很多那时的我执着的点，我已不再感兴趣，任何主观性过盛的东西，都不会长久地被人喜爱。那么为什么把它们放出来呢？我想与其让它们在我电脑里落灰，倒不如发到网络上，就像漂流瓶里的信封，虽然希望渺茫，但仍有被捞起的可能。我以后不大会再写议论文了，高考后我就对这个文体失去兴趣了。</p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-author" data-direction="asc">
+        Author
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="JUU1JThFJTg2JUU1JThGJUIyJTJDJUU2JTk2JTg3JUU1JThDJTk2" data-listing-date-sort="1713024000000" data-listing-file-modified-sort="1779282882631" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="习相远也，性相近也" data-listing-filename-sort="hist.qmd">
+<td>
+<span class="listing-date">Apr 14, 2024</span>
+</td>
+<td>
+<a href="../../articles/argument/hist.html" class="title listing-title">习相远也，性相近也</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="JUU3JUE0JUJFJUU0JUJDJTlBJTJDJUU1JThFJTg2JUU1JThGJUIyJTJDJUU2JTk2JTg3JUU1JThDJTk2" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1779282908671" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="和谐与冲突" data-listing-filename-sort="harmoflict.qmd">
+<td>
+<span class="listing-date">Jan 1, 2024</span>
+</td>
+<td>
+<a href="../../articles/argument/harmoflict.html" class="title listing-title">和谐与冲突</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="JUU3JUE0JUJFJUU0JUJDJTlBJTJDJUU1JThFJTg2JUU1JThGJUIyJTJDJUU2JTk2JTg3JUU1JThDJTk2" data-listing-date-sort="1685721600000" data-listing-file-modified-sort="1779282890295" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="崇拜" data-listing-filename-sort="worship.qmd">
+<td>
+<span class="listing-date">Jun 3, 2023</span>
+</td>
+<td>
+<a href="../../articles/argument/worship.html" class="title listing-title">崇拜</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-categories="JUU3JUE0JUJFJUU0JUJDJTlB" data-listing-date-sort="1672531200000" data-listing-file-modified-sort="1779279576021" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="我之应试观" data-listing-filename-sort="exam.qmd">
+<td>
+<span class="listing-date">Jan 1, 2023</span>
+</td>
+<td>
+<a href="../../articles/argument/exam.html" class="title listing-title">我之应试观</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-categories="JUU3JUE0JUJFJUU0JUJDJTlBJTJDJUU4JTg3JUFBJUU2JTg4JTkxJTJDJUU2JTk2JTg3JUU1JThDJTk2" data-listing-date-sort="1699718400000" data-listing-file-modified-sort="1779283313976" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="2" data-listing-title-sort="梗文化之我见" data-listing-filename-sort="geng.qmd">
+<td>
+<span class="listing-date">Nov 12, 2023</span>
+</td>
+<td>
+<a href="../../articles/argument/geng.html" class="title listing-title">梗文化之我见</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-categories="JUU4JTg3JUFBJUU2JTg4JTkx" data-listing-date-sort="1704067200000" data-listing-file-modified-sort="1779280294213" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="独行才能如众" data-listing-filename-sort="alone.qmd">
+<td>
+<span class="listing-date">Jan 1, 2024</span>
+</td>
+<td>
+<a href="../../articles/argument/alone.html" class="title listing-title">独行才能如众</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-categories="JUU4JTg3JUFBJUU3JTk0JUIx" data-listing-date-sort="1696867200000" data-listing-file-modified-sort="1779280458143" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="看不见的距离" data-listing-filename-sort="distance.qmd">
+<td>
+<span class="listing-date">Oct 10, 2023</span>
+</td>
+<td>
+<a href="../../articles/argument/distance.html" class="title listing-title">看不见的距离</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-categories="JUU3JTkwJTg2JUU2JTgzJUIzJTJDJUU4JTgxJThDJUU0JUI4JTlB" data-listing-date-sort="1719590400000" data-listing-file-modified-sort="1779280729437" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="说玩儿" data-listing-filename-sort="play.qmd">
+<td>
+<span class="listing-date">Jun 29, 2024</span>
+</td>
+<td>
+<a href="../../articles/argument/play.html" class="title listing-title">说玩儿</a>
+</td>
+<td>
+<span class="listing-author">AnchoraCloud </span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-categories="JUU1JTkzJUIyJUU2JTgwJTlE" data-listing-file-modified-sort="1779282183984" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="随想" data-listing-filename-sort="essay1.qmd">
 <td>
 <span class="listing-date">&nbsp;</span>
 </td>
 <td>
-<a href="../../articles/essays/essay1.html" class="title listing-title">随笔1</a>
+<a href="../../articles/argument/essay1.html" class="title listing-title">随想</a>
 </td>
 <td>
 <span class="listing-author">AnChoraCloud </span>
@@ -101,9 +380,9 @@
 </table>
 <div class="listing-no-matching d-none">No matching items</div>
 </div> ]]></description>
-  <guid>https://st-anontokyo.github.io/home/articles/essays/</guid>
-  <pubDate>Wed, 20 May 2026 11:12:45 GMT</pubDate>
-  <media:content url="https://st-anontokyo.github.io/home/articles/essays/essay.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://st-anontokyo.github.io/home/articles/argument/</guid>
+  <pubDate>Wed, 20 May 2026 14:10:35 GMT</pubDate>
+  <media:content url="https://st-anontokyo.github.io/home/articles/argument/angry.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>年终总结</title>
@@ -165,7 +444,7 @@
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-categories="JUU3JTk0JTlGJUU2JUI0JUJC" data-listing-date-sort="1675440000000" data-listing-file-modified-sort="1779244286995" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2022" data-listing-filename-sort="s2022.qmd">
+<tr data-index="0" data-categories="JUU3JTk0JTlGJUU2JUI0JUJC" data-listing-date-sort="1675440000000" data-listing-file-modified-sort="1779277442186" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2022" data-listing-filename-sort="s2022.qmd">
 <td>
 <span class="listing-date">Feb 4, 2023</span>
 </td>
@@ -178,7 +457,7 @@
 
 </tr>
 
-<tr data-index="1" data-categories="JUU3JTk0JTlGJUU2JUI0JUJC" data-listing-date-sort="1708963200000" data-listing-file-modified-sort="1779244167065" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2023" data-listing-filename-sort="s2023.qmd">
+<tr data-index="1" data-categories="JUU3JTk0JTlGJUU2JUI0JUJC" data-listing-date-sort="1708963200000" data-listing-file-modified-sort="1779277450576" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2023" data-listing-filename-sort="s2023.qmd">
 <td>
 <span class="listing-date">Feb 27, 2024</span>
 </td>
@@ -191,7 +470,7 @@
 
 </tr>
 
-<tr data-index="2" data-categories="JUU3JTk0JTlGJUU2JUI0JUJCJTJDJUU4JTg3JUFBJUU2JTg4JTkxJTJDJUU2JTgwJUE3" data-listing-date-sort="1741363200000" data-listing-file-modified-sort="1779244016088" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2024" data-listing-filename-sort="s2024.qmd">
+<tr data-index="2" data-categories="JUU3JTk0JTlGJUU2JUI0JUJCJTJDJUU4JTg3JUFBJUU2JTg4JTkxJTJDJUU2JTgwJUE3" data-listing-date-sort="1741363200000" data-listing-file-modified-sort="1779277459477" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2024" data-listing-filename-sort="s2024.qmd">
 <td>
 <span class="listing-date">Mar 8, 2025</span>
 </td>
@@ -204,7 +483,7 @@
 
 </tr>
 
-<tr data-index="3" data-categories="JUU3JTk0JTlGJUU2JUI0JUJCJTJDJUU4JTg3JUFBJUU2JTg4JTkx" data-listing-date-sort="1771084800000" data-listing-file-modified-sort="1779243818038" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2025" data-listing-filename-sort="s2025.qmd">
+<tr data-index="3" data-categories="JUU3JTk0JTlGJUU2JUI0JUJCJTJDJUU4JTg3JUFBJUU2JTg4JTkx" data-listing-date-sort="1771084800000" data-listing-file-modified-sort="1779277465205" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2025" data-listing-filename-sort="s2025.qmd">
 <td>
 <span class="listing-date">Feb 15, 2026</span>
 </td>
@@ -222,7 +501,7 @@
 <div class="listing-no-matching d-none">No matching items</div>
 </div> ]]></description>
   <guid>https://st-anontokyo.github.io/home/articles/summary/</guid>
-  <pubDate>Wed, 20 May 2026 11:12:45 GMT</pubDate>
+  <pubDate>Wed, 20 May 2026 14:10:35 GMT</pubDate>
   <media:content url="https://st-anontokyo.github.io/home/articles/summary/sense.png" medium="image" type="image/png" height="108" width="144"/>
 </item>
 </channel>
