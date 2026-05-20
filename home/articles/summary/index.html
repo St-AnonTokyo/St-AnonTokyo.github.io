@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -269,10 +269,6 @@ window.Quarto = {
 <a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
 </th>
 
-<th>
-Word Count
-</th>
-
 </tr>
 </thead>
 <tbody class="list">
@@ -287,9 +283,6 @@ Word Count
 <td>
 <span class="listing-date">Feb 4, 2023</span>
 </td>
-<td>
-<span class="listing-word-count">1 words</span>
-</td>
 
 </tr>
 
@@ -302,9 +295,6 @@ Word Count
 </td>
 <td>
 <span class="listing-date">Feb 27, 2024</span>
-</td>
-<td>
-<span class="listing-word-count">1 words</span>
 </td>
 
 </tr>
@@ -319,9 +309,6 @@ Word Count
 <td>
 <span class="listing-date">Mar 8, 2025</span>
 </td>
-<td>
-<span class="listing-word-count">1 words</span>
-</td>
 
 </tr>
 
@@ -334,9 +321,6 @@ Word Count
 </td>
 <td>
 <span class="listing-date">Feb 15, 2026</span>
-</td>
-<td>
-<span class="listing-word-count">1 words</span>
 </td>
 
 </tr>

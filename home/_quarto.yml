@@ -2,9 +2,6 @@ project:
   type: website
   output-dir: ../home
 
-filters:
-  - wordcount
-
 website:
   title: "抛锚的云の个人空间"
   description: "It's a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment."
@@ -34,12 +31,6 @@ website:
 
 format:
   html:
-    citeproc: false
-    filters:
-      - at: pre-quarto
-        path: _extensions/andrewheiss/wordcount/citeproc.lua
-      - at: pre-quarto
-        path: _extensions/andrewheiss/wordcount/wordcount.lua
     page-footer:
       left: |
         Published by AnchoraCloud, 2026.
