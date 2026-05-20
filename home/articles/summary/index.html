@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -258,15 +258,15 @@ window.Quarto = {
 <tr>
 
 <th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+<th>
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 
 <th>
 <a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
 </th>
 
 </tr>
@@ -275,52 +275,52 @@ window.Quarto = {
 
 <tr data-index="0" data-categories="JUU3JTk0JTlGJUU2JUI0JUJC" data-listing-date-sort="1675440000000" data-listing-file-modified-sort="1779244286995" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2022" data-listing-filename-sort="s2022.qmd">
 <td>
+<span class="listing-date">Feb 4, 2023</span>
+</td>
+<td>
 <a href="../../articles/summary/s2022.html" class="title listing-title">写给我的2022</a>
 </td>
 <td>
 <span class="listing-author">AnchoraCloud </span>
-</td>
-<td>
-<span class="listing-date">Feb 4, 2023</span>
 </td>
 
 </tr>
 
 <tr data-index="1" data-categories="JUU3JTk0JTlGJUU2JUI0JUJC" data-listing-date-sort="1708963200000" data-listing-file-modified-sort="1779244167065" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2023" data-listing-filename-sort="s2023.qmd">
 <td>
+<span class="listing-date">Feb 27, 2024</span>
+</td>
+<td>
 <a href="../../articles/summary/s2023.html" class="title listing-title">写给我的2023</a>
 </td>
 <td>
 <span class="listing-author">AnchoraCloud </span>
-</td>
-<td>
-<span class="listing-date">Feb 27, 2024</span>
 </td>
 
 </tr>
 
 <tr data-index="2" data-categories="JUU3JTk0JTlGJUU2JUI0JUJCJTJDJUU4JTg3JUFBJUU2JTg4JTkxJTJDJUU2JTgwJUE3" data-listing-date-sort="1741363200000" data-listing-file-modified-sort="1779244016088" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2024" data-listing-filename-sort="s2024.qmd">
 <td>
+<span class="listing-date">Mar 8, 2025</span>
+</td>
+<td>
 <a href="../../articles/summary/s2024.html" class="title listing-title">写给我的2024</a>
 </td>
 <td>
 <span class="listing-author">AnchoraCloud </span>
-</td>
-<td>
-<span class="listing-date">Mar 8, 2025</span>
 </td>
 
 </tr>
 
 <tr data-index="3" data-categories="JUU3JTk0JTlGJUU2JUI0JUJCJTJDJUU4JTg3JUFBJUU2JTg4JTkx" data-listing-date-sort="1771084800000" data-listing-file-modified-sort="1779243818038" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="写给我的2025" data-listing-filename-sort="s2025.qmd">
 <td>
+<span class="listing-date">Feb 15, 2026</span>
+</td>
+<td>
 <a href="../../articles/summary/s2025.html" class="title listing-title">写给我的2025</a>
 </td>
 <td>
 <span class="listing-author">AnchoraCloud </span>
-</td>
-<td>
-<span class="listing-date">Feb 15, 2026</span>
 </td>
 
 </tr>

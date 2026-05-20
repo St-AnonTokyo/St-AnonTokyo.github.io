@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -258,15 +258,15 @@ window.Quarto = {
 <tr>
 
 <th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
+
+<th>
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 
 <th>
 <a class="sort" data-sort="listing-author" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Author</a>
-</th>
-
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
 </th>
 
 </tr>
@@ -275,26 +275,26 @@ window.Quarto = {
 
 <tr data-index="0" data-categories="JUU3JTk0JTlGJUU2JUI0JUJCJTJDJUU3JUJFJThF" data-listing-date-sort="1700496000000" data-listing-file-modified-sort="1779245421346" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="我与日坛" data-listing-filename-sort="ritan.qmd">
 <td>
+<span class="listing-date">Nov 21, 2023</span>
+</td>
+<td>
 <a href="../../articles/essays/ritan.html" class="title listing-title">我与日坛</a>
 </td>
 <td>
 <span class="listing-author">AnchoraCloud </span>
-</td>
-<td>
-<span class="listing-date">Nov 21, 2023</span>
 </td>
 
 </tr>
 
 <tr data-index="1" data-categories="JUU1JTkzJUIyJUU2JTgwJTlE" data-listing-file-modified-sort="1779245703587" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="随笔1" data-listing-filename-sort="essay1.qmd">
 <td>
+<span class="listing-date">&nbsp;</span>
+</td>
+<td>
 <a href="../../articles/essays/essay1.html" class="title listing-title">随笔1</a>
 </td>
 <td>
 <span class="listing-author">AnChoraCloud </span>
-</td>
-<td>
-<span class="listing-date">&nbsp;</span>
 </td>
 
 </tr>

@@ -6,7 +6,7 @@ image: "essay.png"
 listing:
     type: table
     categories: true
-    fields: [title,author,date]
+    fields: [date,title,author]
     contents:
         - "/ritan.qmd"
         - "/essay1.qmd"

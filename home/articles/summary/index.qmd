@@ -6,7 +6,7 @@ image: "sense.png"
 listing:
     type: table
     categories: true
-    fields: [title,author,date]
+    fields: [date,title,author]
     contents:
         - "/s2025.qmd"
         - "/s2024.qmd"
