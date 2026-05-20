@@ -21,7 +21,7 @@
 
 html{
     font-size:10px;
-    background-color: var(--bs-body-bg);
+    background-color: gray;
 }
 
 :root{
