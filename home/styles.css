@@ -21,14 +21,36 @@
 
 html{
     font-size:10px;
-    background-color:gray;
+    background-color: var(--bs-body-bg);
+}
+
+:root{
+    --bs-body-bg: #e2e7ea;
+    --page-bg-light: #e2e7ea;
+    --page-text-light: #1b2843;
+
+    --page-bg-dark: #051b1e;
+    --page-text-dark: #e5e7eb;
+}
+
+body.quarto-light {
+    --bs-body-bg: var(--page-bg-light);
+    background-color: var(--page-bg-light);
+    color: var(--page-text-light);
+}
+
+body.quarto-dark {
+    --bs-body-bg: var(--page-bg-dark);
+    background-color: var(--page-bg-dark);
+    color: var(--page-text-dark);
 }
 
 body{
     width:100%;
     max-width:1200px;
     margin:0 auto;
-    background-color:#e2e7ea;
+    background-color: var(--bs-body-bg);
+    color: var(--bs-body-color, inherit);
     padding:0 10px 20px 10px;
 }
 
@@ -74,7 +96,7 @@ li{
 img{
     display:block;
     margin:0 auto;
-    width:75%;
+    width:70%;
     max-width:1000px;
 }
 

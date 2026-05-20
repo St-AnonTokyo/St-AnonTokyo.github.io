@@ -15,10 +15,18 @@ website:
 
   cookie-consent: 
     type: implied
-    style: headline
+    style: simple
     palette: light
-    language: zh
+    language: zh-Hans
   navbar:
+    background: light
+    foreground: dark
+    title: "AnchoraCloud"
+    search: true
+    logo: "apple-touch-icon.png"
+    tools: 
+      - icon: github
+        href: https://github.com/St-AnonTokyo/St-AnonTokyo.github.io
     left:
       - text: "起始页"
         href: https://st-anontokyo.github.io
@@ -29,13 +37,15 @@ website:
       - text: "文章"
         href: articles/index.qmd
         menu:
-          - text: "年度总结"
+          - text: "年终总结"
             href: articles/summary/index.qmd
-            menu:
-              - text: "2025"
-                href: articles/summary/s2025.qmd
+          - text: "随笔"
+            href: articles/essays/index.qmd
       - text: "小说"
         href: novels/index.qmd
+        menu:
+          - text: "短篇"
+            href: novels/short/index.qmd
       - text: "笔记"
         href: notes/index.qmd
 
@@ -43,8 +53,8 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: flatly
+      dark: darkly
     css: styles.css
     toc: true
     code-copy: true

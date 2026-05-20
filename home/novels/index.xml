@@ -10,11 +10,12 @@
 <atom:link href="https://st-anontokyo.github.io/home/novels/index.xml" rel="self" type="application/rss+xml"/>
 <description>It&#39;s a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment.</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Wed, 20 May 2026 09:19:36 GMT</lastBuildDate>
+<lastBuildDate>Wed, 20 May 2026 10:30:04 GMT</lastBuildDate>
 <item>
   <title>短篇</title>
   <link>https://st-anontokyo.github.io/home/novels/short/</link>
   <description><![CDATA[ 
+
 
 
 
@@ -75,7 +76,7 @@ AnchoraCloud
 <div class="listing-no-matching d-none">No matching items</div>
 </div> ]]></description>
   <guid>https://st-anontokyo.github.io/home/novels/short/</guid>
-  <pubDate>Wed, 20 May 2026 09:19:36 GMT</pubDate>
+  <pubDate>Wed, 20 May 2026 10:30:04 GMT</pubDate>
   <media:content url="https://st-anontokyo.github.io/home/novels/short/bird.png" medium="image" type="image/png" height="116" width="144"/>
 </item>
 </channel>
