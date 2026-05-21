@@ -13,3 +13,6 @@ listing:
     - "/short/index.qmd"
 ---
 
+希望您喜欢我创造的故事
+
+<br><br><br>

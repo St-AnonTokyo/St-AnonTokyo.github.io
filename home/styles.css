@@ -102,5 +102,5 @@ img{
 
 .quarto-listing .thumbnail img{
     height: auto !important;
-    object-fit: contain;
+    object-fit: fill;
 }

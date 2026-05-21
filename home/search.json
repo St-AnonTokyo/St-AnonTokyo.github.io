@@ -46,7 +46,7 @@
     "href": "articles/index.html",
     "title": "文章",
     "section": "",
-    "text": "这里存放着我写过的一些文章\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n随笔\n\n\n合集\n\n\nsome short essays\n\n\n\n\n\n\n\n\n\n\n\n\n诗歌\n\n\n合集\n\n\nsome short poems\n\n\n\n\n\n\n\n\n\n\n\n\n议论\n\n\n合集\n\n\nargue for the truth\n\n\n\n\n\n\n\n\n\n\n\n\n年终总结\n\n\n合集\n\n\nDon’t forget the past self\n\n\n\n\n\n无匹配项"
+    "text": "这里存放着我写过的一些文章\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n随笔\n\n\n合集\n\n\nsome short essays\n\n\n\n\n\n\n\n\n\n\n\n\n诗歌\n\n\n合集\n\n\nsome short poems\n\n\n\n\n\n\n\n\n\n\n\n\n议论\n\n\n合集\n\n\nargue for the truth\n\n\n\n\n\n\n\n\n\n\n\n\n年终总结\n\n\n合集\n\n\nDon’t forget the past self\n\n\n\n\n\n无匹配项"
   },
   {
     "objectID": "articles/essays/index.html",
@@ -95,7 +95,7 @@
     "href": "about.html",
     "title": "关于我",
     "section": "",
-    "text": "身份\n一个平平无奇的ZJUer&CS_student\n\n\n性格\n虽然在日常生活中沉默寡言，但是在文字的世界里还是很开放的！👧\n希望你能在我的文字中看到一个鲜活的面孔，也欢迎来和我私下交流👭👫👬\n\n\n爱好\n喜欢写作📝、coding⌨️以及yuri👩‍❤️‍💋‍👩\n\n\n联系方式\nEmail: 3250102126@zju.edu.cn"
+    "text": "身份\n一个平平无奇的ZJUer&CS_student\n\n\n性格\n虽然在日常生活中沉默寡言，但是在文字的世界里还是很开放的！👧\n希望你能在我的文字中看到一个不一样的面孔，也欢迎来和我私下交流👭👫👬\n\n\n爱好\n喜欢写作📝、coding⌨️以及yuri👩‍❤️‍👩\n\n\n联系方式\nEmail: 3250102126@zju.edu.cn"
   },
   {
     "objectID": "articles/argument/alone.html",
@@ -179,14 +179,14 @@
     "href": "index.html",
     "title": "抛锚的云の个人空间",
     "section": "",
-    "text": "关于本网站\n这是一个个人网站，主要作用是托管我的文字与想法，也许之后也会放一些课程或自学笔记（如果我愿意记的话）。\n\n\n什么是抛锚的云？\n请移步起始页\n\n\n建这个网站的初衷\n在大一学年的课程学习中，我参考了很多前辈的笔记本，并从中受益良多。💡这启发了我：我也可以搭建一个属于自己的个人博客，用于记录与思索。但鉴于本人水平有限，对课内知识的掌握程度还远没有到能教授别人的层次，所以会更多地放一些与学业无关的内容，以供消闲解闷。\n我最近才开始接触前端开发，对于html、css和javascript的认知仅停留在相当基础的水平，这个网站主要是借助Quarto搭建的。目前网站的功能还比较少，但随着我的进一步探索，它以后大概会越来越丰富。\n\n\n这个网站的未来\n至少在本科阶段，我会把它当作个人博客，定期维护并更新内容。如果未来出于某些原因不得不放弃它(如Github Page过载)，它也会被保留下来，作为一种回忆。\n在网站的开发过程中，势必会遇到各种问题，加之本人技术水平不足，当前仅实现了网站最基本的功能。在建设过程中，如果有什么建议或问题，欢迎在下方的评论区留言😸！\n 如果您喜欢这个网站里的内容，可以给作者买一根冰淇淋😚"
+    "text": "关于本网站\n这是一个个人网站，主要作用是托管我的文字与想法，也许之后也会放一些课程或自学笔记（如果我愿意记的话）。\n\n\n什么是抛锚的云？\n请移步起始页\n\n\n建这个网站的初衷\n在大一学年的课程学习中，我参考了很多前辈的笔记本，并从中受益良多。💡这启发了我：我也可以搭建一个属于自己的个人博客，用于记录与思索。但鉴于本人水平有限，对课内知识的掌握程度还远没有到能教授别人的层次，所以会更多地放一些与学业无关的内容，以供消闲解闷。\n我最近才开始接触前端开发，对于html、css和javascript的认知仅停留在相当基础的水平，这个网站主要是借助Quarto搭建的。目前网站的功能还比较少，但随着我的进一步探索，它以后大概会越来越丰富。\n\n\n这个网站的未来\n至少在本科阶段，我会把它当作个人博客，定期维护并更新内容。如果未来出于某些原因不得不放弃它(如Github Page过载)，它也会被保留下来，作为一种回忆。\n在网站的开发过程中，势必会遇到各种问题，加之本人技术能力不足，当前仅实现了网站最基本的功能。在建设过程中，如果有什么建议或问题，欢迎在下方的评论区留言😸！您的意见对我无比珍贵。\n\n\n订阅\n您可以使用SSR阅读器订阅本网站，订阅后您会及时收到一些内容的更新提醒。\n订阅链接:\n\n文章：https://st-anontokyo.github.io/articles/index.xml\n小说：https://st-anontokyo.github.io/novels/index.xml\n\n\n\n\n激励创作者\n如果您喜欢这个网站里的内容，可以给作者买一根冰淇淋😚"
   },
   {
     "objectID": "novels/index.html",
     "href": "novels/index.html",
     "title": "小说",
     "section": "",
-    "text": "短篇\n\n\nfree short stories\n\n\n\n\n\n\n\n\n\n\n无匹配项"
+    "text": "希望您喜欢我创造的故事\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n短篇\n\n\nfree short stories\n\n\n\n\n\n\n\n\n\n\n无匹配项"
   },
   {
     "objectID": "novels/short/meet.html",

@@ -8,9 +8,9 @@ website:
   site-url: https://st-anontokyo.github.io/home
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
   announcement:
-    icon: cake2-fill
+    icon: balloon
     dismissable: true
-    content: "**祝我19岁生日快乐！**   *Happy birthday to myself!*"
+    content: "**祝我19岁生日以及浙江大学建校129周年生日快乐！**  <br> *Happy birthday to Zhejiang University and myself!*  🎂🎂🎂"
     type: info
     position: below-navbar
   comments:
@@ -33,10 +33,11 @@ website:
       built with Quarto
 
   cookie-consent: 
-    type: implied
+    type: express
     style: simple
     palette: light
     language: zh-Hans
+
   navbar:
     background: light
     foreground: dark
