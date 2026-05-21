@@ -10,7 +10,7 @@ website:
   announcement:
     icon: balloon
     dismissable: true
-    content: "<center>**祝我19岁生日以及浙江大学建校129周年生日快乐！**</center>  <br> <center>*Happy birthday to Zhejiang University and myself!*</center> <br> 🎂🎂🎂"
+    content: "<center>**祝我19岁生日以及浙江大学建校129周年生日快乐！**</center>  <br> <center>*Happy birthday to Zhejiang University and myself!*</center>🎂🎂🎂"
     type: info
     position: below-navbar
   comments:
