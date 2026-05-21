@@ -84,7 +84,7 @@ format:
           <link rel="icon" type="image/png" sizes="32x32" href="/apple-touch-icon.png"/>
           <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
 
-    include-after-body:
+    include-before-body:
       text: |
         <script data-goatcounter="https://st-anon-tokyo.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
