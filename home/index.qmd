@@ -29,8 +29,7 @@ lang: zh
 
 订阅链接:
 
-- 文章：https://st-anontokyo.github.io/articles/index.xml
-- 小说：https://st-anontokyo.github.io/novels/index.xml
+- https://st-anontokyo.github.io/home/feed.xml
 
 <br><br><br>
 

@@ -1,0 +1,9 @@
+---
+title: "feed配置"
+listing:
+    feed: true
+    contents:
+        - "/articles/index.qmd"
+        - "/novels/index.qmd"
+        - "/notes/index.qmd"
+---

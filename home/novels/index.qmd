@@ -5,7 +5,6 @@ comments: false
 listing:
   categories: true
   type: grid
-  feed: true
   sort:
     - "date"
     - "title desc"

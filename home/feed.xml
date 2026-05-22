@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>抛锚的云の个人空间</title>
+<link>https://st-anontokyo.github.io/home/feed.html</link>
+<atom:link href="https://st-anontokyo.github.io/home/feed.xml" rel="self" type="application/rss+xml"/>
+<description>It&#39;s a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment.</description>
+<generator>quarto-1.9.37</generator>
+<lastBuildDate>Fri, 22 May 2026 15:37:25 GMT</lastBuildDate>
+<item>
+  <title>小说</title>
+  <link>https://st-anontokyo.github.io/home/novels/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>希望您喜欢我创造的故事</p>
+<p><br><br><br></p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1779277388918" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../novels/short/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/novels/short/bird.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+短篇
+</h5>
+<div class="card-text listing-description delink">
+<p>free short stories</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">无匹配项</div>
+</div> ]]></description>
+  <guid>https://st-anontokyo.github.io/home/novels/</guid>
+  <pubDate>Fri, 22 May 2026 15:37:25 GMT</pubDate>
+</item>
+<item>
+  <title>文章</title>
+  <link>https://st-anontokyo.github.io/home/articles/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>这里存放着我写过的一些文章</p>
+<p><br><br><br></p>
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1779282117272" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../articles/essays/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/essays/essay.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+随笔
+</h5>
+<div class="card-subtitle listing-subtitle">
+合集
+</div>
+<div class="card-text listing-description delink">
+<p>some short essays</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1779284611148" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../articles/poems/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/poems/poem.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+诗歌
+</h5>
+<div class="card-subtitle listing-subtitle">
+合集
+</div>
+<div class="card-text listing-description delink">
+<p>some short poems</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1779457652903" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../articles/argument/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/argument/angry.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+议论
+</h5>
+<div class="card-subtitle listing-subtitle">
+合集
+</div>
+<div class="card-text listing-description delink">
+<p>argue for the truth</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1779277429503" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../articles/summary/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/summary/sense.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+年终总结
+</h5>
+<div class="card-subtitle listing-subtitle">
+合集
+</div>
+<div class="card-text listing-description delink">
+<p>Don’t forget the past self</p>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">无匹配项</div>
+</div> ]]></description>
+  <guid>https://st-anontokyo.github.io/home/articles/</guid>
+  <pubDate>Fri, 22 May 2026 15:37:25 GMT</pubDate>
+</item>
+</channel>
+</rss>
