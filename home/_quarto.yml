@@ -8,9 +8,9 @@ website:
   site-url: https://st-anontokyo.github.io/home
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
   announcement:
-    icon: balloon
-    dismissable: true
-    content: "<center>**祝我19岁生日以及浙江大学建校129周年生日快乐！**</center>   <center>*Happy birthday to Zhejiang University and myself!*</center>🎂🎂🎂"
+    icon: flag
+    dismissable: false
+    content: "<center>**欢迎光临我的个人博客！**</center>"
     type: info
     position: below-navbar
   comments:
