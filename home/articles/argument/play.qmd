@@ -5,6 +5,13 @@ date: "2024-06-29"
 comments: false
 word-counting: "1381"
 categories: [理想,职业]
+include-after-body: 
+    text: |
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+        </script>
+        <span id="busuanzi_container_site_uv">
+          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
+        </span>
 ---
 
 当人感到无聊时，心神如冰化为水，疏解到周围的空间里，仿佛即将消散，身体内部空无一物。为了阻止这一进程，人体自发地向外界寻求乐趣。于是精明的商人们就准备了各式的游戏，供人玩乐。从古至今，游戏的式样越发繁多，教人应接不暇。

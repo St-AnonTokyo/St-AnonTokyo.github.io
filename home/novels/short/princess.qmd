@@ -4,7 +4,16 @@ author: "AnchoraCloud"
 date: "2026-05-19"
 image: "princess.png"
 categories: [奇幻,童话]
+include-after-body: 
+    text: |
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+        </script>
+        <span id="busuanzi_container_site_uv">
+          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
+        </span>
 ---
+
+<img src="princess.png" alt="princess"/>
 
 很久很久以前，有一个古老的王国，一位资质平庸的国王统治着他的子民。他有两个芳名远播的女儿，大公主贤良淑德、小公主秀外慧中，她们的美貌与德行让她们获得了全国百姓的喜爱。
 

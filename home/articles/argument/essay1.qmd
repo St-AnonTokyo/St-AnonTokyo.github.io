@@ -3,6 +3,13 @@ title: "随想"
 author: "AnChoraCloud"
 categories: [哲思]
 comments: false
+include-after-body: 
+    text: |
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+        </script>
+        <span id="busuanzi_container_site_uv">
+          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
+        </span>
 ---
 
 真实是什么，真的很重要吗？古往今来，多少科学家、哲学家献身真理，发掘这世界的奥秘。然而，我们还看到另一个群体，他们不向往真理，永远活在自己的世界里。他们信神、信命，有时以一种狂热的姿态出现在世人面前。我们对他们的印象是顽固、迷信。自诩为理性的唯物主义者，我们只是尊重其作为人自由选择信仰的权利，对其中内容，却是不屑一顾。

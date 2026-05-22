@@ -5,6 +5,13 @@ date: "2023-06-03"
 comments: false
 word-counting: "1379"
 categories: [社会,历史,文化]
+include-after-body: 
+    text: |
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+        </script>
+        <span id="busuanzi_container_site_uv">
+          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
+        </span>
 ---
 
 早在“崇拜”一词被发明前，人类社会就已有了崇拜现象。对于神秘的大自然，西方人把它们整合为一至高无上的神，日夜向其祷告。中国人的神却有些杂乱，各行各业都要有一个，譬如灶王、土地公公、财神……实在不好整合。这种杂乱难以满足人类的崇拜欲。于是古人想了个折中的法子，在体系内融进了“半神”，教“孔子”统治了中国两千年。但到了今天，这“半神”倒是少见了，毕竟中国人的思想越发开放、自由了。另一方面，科学发展、媒介变迁粉碎了上帝。因此，在当今，人们的崇拜更多是对于某个实在、可见的人类个体了，崇拜现象也脱离了控制而成为个人的自由了。

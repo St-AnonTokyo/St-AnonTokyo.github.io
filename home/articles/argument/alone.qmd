@@ -5,6 +5,13 @@ date: "2024"
 comments: false
 word-counting: "1240"
 categories: [自我]
+include-after-body: 
+    text: |
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+        </script>
+        <span id="busuanzi_container_site_uv">
+          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
+        </span>
 ---
 
 大部分人生于世上，都是不甘平庸的，希求把自己与别人区别开来，以彰显自身的独特。他们通过个性与偏好确立了自我。而我私以为，凡真正确立自我的人，多少都有点特立独行。

@@ -5,6 +5,13 @@ author: "AnchoraCloud"
 date: "2023-06-30"
 image: "desert.jpg"
 categories: [工业化,同人,理想]
+include-after-body: 
+    text: |
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+        </script>
+        <span id="busuanzi_container_site_uv">
+          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
+        </span>
 ---
 
 ## 序
