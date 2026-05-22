@@ -6,13 +6,6 @@ date: "2023"
 comments: false
 word-counting: "1116"
 categories: [社会]
-include-after-body: 
-    text: |
-        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-        </script>
-        <span id="busuanzi_container_site_uv">
-          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
-        </span>
 ---
 
 又是一年一度的高考周，考生将郑重踏入考场，家长焦虑等候，老师几度感慨。一个小小的考试却会在某种程度上决定一个人的未来，令人不免悚然。

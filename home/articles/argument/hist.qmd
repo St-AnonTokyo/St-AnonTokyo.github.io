@@ -5,13 +5,6 @@ author: "AnchoraCloud"
 comments: false
 word-counting: "1398"
 categories: [历史,文化]
-include-after-body: 
-    text: |
-        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-        </script>
-        <span id="busuanzi_container_site_uv">
-          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
-        </span>
 ---
 
 我一直认为，婴儿眼中的世界和我们眼中的有很大的差异。婴儿第一次睁开眼睛，TA看到的是一个全然陌生的地方，意识忽然间，不知被什么东西填充了五感，于是TA本能地嚎啕大哭。但当TA成长，他发现有人竟比TA先来到这个世界，在这里生活的很好，那些人的生活，我们统称为历史。倘没有历史，我们会有一种婴儿般的不安全感。在这点上，人和动物的区别不大，后到者需要先到者的引导，否则就会茫然不知所措。安全感是历史带给我最基本的、也最重要的感觉。

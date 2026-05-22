@@ -5,13 +5,6 @@ date: "2023-11-12"
 comments: false
 word-counting: "2961"
 categories: [社会,自我,文化]
-include-after-body: 
-    text: |
-        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-        </script>
-        <span id="busuanzi_container_site_uv">
-          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
-        </span>
 ---
 
 ### 初步感知

@@ -5,13 +5,6 @@ date: "2023-10-10"
 comments: false
 word-counting: "1394"
 categories: [自由]
-include-after-body: 
-    text: |
-        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
-        </script>
-        <span id="busuanzi_container_site_uv">
-          🎰本文阅读量<span id="busuanzi_value_page_pv"></span>次
-        </span>
 ---
 
 记得某一天的体育课前，我站在操场上，望着眼前的一切——做运动的人，心神忽然有些恍惚。我感到自己仿佛穿越到万年前的坦桑尼亚大草原上，身着寸缕、挺直身姿，欲同身旁同伴开启一场猎杀，追逐羚羊。我后来意识到，这是我长期跑步的缘故。
