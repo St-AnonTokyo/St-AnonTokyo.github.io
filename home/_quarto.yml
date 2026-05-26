@@ -26,7 +26,11 @@ website:
       language: "zh-CN"
       loading: "lazy"
 
+  reader-mode: true
+  back-to-top-navigation: true
   page-footer:
+    border: false
+    background: light
     left: |
       © 2026 AnchoraCloud
 
@@ -61,7 +65,7 @@ website:
           - text: "短篇"
             href: novels/short/index.qmd
       - text: "笔记"
-        href: notes/index.qmd
+        href: 404.html
 
 
 format:

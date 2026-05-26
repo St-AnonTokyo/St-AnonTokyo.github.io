@@ -7,11 +7,35 @@
     ]
   },
   {
-    "listing": "/feed.html",
+    "listing": "/articles/summary/index.html",
     "items": [
-      "/novels/index.html",
-      "/articles/index.html",
-      "/notes/index.html"
+      "/articles/summary/s2022.html",
+      "/articles/summary/s2023.html",
+      "/articles/summary/s2024.html",
+      "/articles/summary/s2025.html"
+    ]
+  },
+  {
+    "listing": "/articles/poems/index.html",
+    "items": [
+      "/articles/poems/cat.html",
+      "/articles/poems/light.html"
+    ]
+  },
+  {
+    "listing": "/articles/index.html",
+    "items": [
+      "/articles/essays/index.html",
+      "/articles/poems/index.html",
+      "/articles/argument/index.html",
+      "/articles/summary/index.html"
+    ]
+  },
+  {
+    "listing": "/articles/essays/index.html",
+    "items": [
+      "/articles/essays/citywalk.html",
+      "/articles/essays/ritan.html"
     ]
   },
   {
@@ -29,35 +53,10 @@
     ]
   },
   {
-    "listing": "/articles/essays/index.html",
+    "listing": "/feed.html",
     "items": [
-      "/articles/essays/citywalk.html",
-      "/articles/essays/ritan.html"
-    ]
-  },
-  {
-    "listing": "/articles/index.html",
-    "items": [
-      "/articles/essays/index.html",
-      "/articles/poems/index.html",
-      "/articles/argument/index.html",
-      "/articles/summary/index.html"
-    ]
-  },
-  {
-    "listing": "/articles/poems/index.html",
-    "items": [
-      "/articles/poems/cat.html",
-      "/articles/poems/light.html"
-    ]
-  },
-  {
-    "listing": "/articles/summary/index.html",
-    "items": [
-      "/articles/summary/s2022.html",
-      "/articles/summary/s2023.html",
-      "/articles/summary/s2024.html",
-      "/articles/summary/s2025.html"
+      "/novels/index.html",
+      "/articles/index.html"
     ]
   },
   {
