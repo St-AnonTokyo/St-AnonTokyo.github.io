@@ -97,7 +97,9 @@ img{
     display:block;
     margin:0 auto;
     width:70%;
-    max-width:1000px;
+    max-width:90%;
+    max-height:70vh;
+    object-fit: contain;
 }
 
 .quarto-listing .thumbnail img{
