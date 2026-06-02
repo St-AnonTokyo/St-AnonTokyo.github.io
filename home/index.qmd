@@ -27,15 +27,22 @@ lang: zh
 
 您可以使用<a href="https://zhuanlan.zhihu.com/p/715661253">RSS阅读器</a>订阅本网站，订阅后您会及时收到一些内容的更新提醒。
 
-订阅链接:
+::: {.callout-note collapse="true"}
+### 订阅链接
 
 - https://st-anontokyo.github.io/home/feed.xml
 
+:::
+
 <br><br><br>
 
-### 激励创作者
+### 支持创作者
 如果您喜欢这个网站里的内容，可以给作者买一根冰淇淋😚
 
+::: {.callout-tip collapse="true"}
+### 神秘的二维码
 <img src="money.png" alt="收款码"/>
+
+:::
 
 <br>
