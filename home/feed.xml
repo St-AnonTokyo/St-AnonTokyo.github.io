@@ -10,7 +10,7 @@
 <atom:link href="https://st-anontokyo.github.io/home/feed.xml" rel="self" type="application/rss+xml"/>
 <description>It&#39;s a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment.</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 02 Jun 2026 15:16:37 GMT</lastBuildDate>
+<lastBuildDate>Wed, 03 Jun 2026 01:47:56 GMT</lastBuildDate>
 <item>
   <title>小说</title>
   <link>https://st-anontokyo.github.io/home/novels/</link>
@@ -53,7 +53,7 @@
 <div class="listing-no-matching d-none">无匹配项</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
   <guid>https://st-anontokyo.github.io/home/novels/</guid>
-  <pubDate>Tue, 02 Jun 2026 15:16:37 GMT</pubDate>
+  <pubDate>Wed, 03 Jun 2026 01:47:56 GMT</pubDate>
 </item>
 <item>
   <title>文章</title>
@@ -152,7 +152,7 @@
 <div class="listing-no-matching d-none">无匹配项</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
   <guid>https://st-anontokyo.github.io/home/articles/</guid>
-  <pubDate>Tue, 02 Jun 2026 15:16:37 GMT</pubDate>
+  <pubDate>Wed, 03 Jun 2026 01:47:56 GMT</pubDate>
 </item>
 </channel>
 </rss>

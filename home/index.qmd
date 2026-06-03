@@ -25,7 +25,7 @@ lang: zh
 
 ### 订阅
 
-您可以使用<a href="https://zhuanlan.zhihu.com/p/715661253">RSS阅读器</a>订阅本网站，订阅后您会及时收到一些内容的更新提醒。
+您可以使用<a href="https://zhuanlan.zhihu.com/p/715661253">RSS阅读器</a>订阅本网站，订阅后您会收到一些内容的更新提醒。
 
 ::: {.callout-note collapse="true"}
 ### 订阅链接
