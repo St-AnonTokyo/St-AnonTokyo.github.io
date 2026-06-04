@@ -82,10 +82,5 @@ format:
           <link rel="icon" type="image/png" sizes="32x32" href="/apple-touch-icon.png"/>
           <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
 
-    include-after-body:
-      text: |
-        <script defer data-domain="st-anontokyo.github.io" src="https://plausible-production-d47f.up.railway.app/js/script.outbound-links.tagged-events.js">
-        </script>
-
 
 
