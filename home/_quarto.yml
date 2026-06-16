@@ -3,14 +3,14 @@ project:
   output-dir: ../home
 
 website:
-  title: "抛锚的云の个人空间"
+  title: "云的锚泊地"
   description: "It's a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment."
   site-url: https://st-anontokyo.github.io/home
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
   announcement:
     icon: flag
     dismissable: false
-    content: "<center>**欢迎光临我的个人博客！**</center>"
+    content: "<center>**欢迎光临我的个人博客!**</center>"
     type: info
     position: below-navbar
   comments:

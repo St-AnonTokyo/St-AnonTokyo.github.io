@@ -47,7 +47,6 @@ body.quarto-dark {
 
 body{
     width:100%;
-    max-width:1200px;
     margin:0 auto;
     background-color: var(--bs-body-bg);
     color: var(--bs-body-color, inherit);

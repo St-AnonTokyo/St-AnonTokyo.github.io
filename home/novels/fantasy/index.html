@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="zh-Hans" xml:lang="zh-Hans"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="AnchoraCloud">
-<meta name="dcterms.date" content="2024-06-29">
 
-<title>说玩儿 – 云的锚泊地</title>
+<title>fantasy – 云的锚泊地</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -35,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/popper.min.js"></script>
@@ -63,23 +63,81 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "没有结果",
+    "search-matching-documents-text": "匹配的文档",
+    "search-copy-link-title": "复制搜索链接",
+    "search-hide-matches-text": "隐藏其它匹配结果",
+    "search-more-match-text": "更多匹配结果",
+    "search-more-matches-text": "更多匹配结果",
+    "search-clear-button-title": "清除",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "取消",
+    "search-submit-button-title": "提交",
+    "search-label": "搜索"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-author','listing-image','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""><link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&amp;family=Noto+Sans+SC:wght@100..900&amp;family=Noto+Serif+SC:wght@200..900&amp;display=swap" rel="stylesheet">
 <link rel="icon" type="image/png" sizes="32x32" href="../../apple-touch-icon.png">
 <link rel="apple-touch-icon" href="../../apple-touch-icon.png">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -261,8 +319,8 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">AnchoraCloud</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+            <div id="quarto-search" class="" title="搜索"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="展开或折叠导航栏" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -295,8 +353,8 @@ ul.task-list li input[type="checkbox"] {
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools tools-wide">
     <a href="https://github.com/St-AnonTokyo/St-AnonTokyo.github.io" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-github"></i></a>
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="切换深色模式"><i class="bi"></i></a>
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="切换阅读器模式">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
@@ -314,39 +372,23 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">分类</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">全部 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUU3JTkwJTg2JUU2JTgzJUIz">理想 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUU2JTk3JTg1JUU4JUExJThD">旅行 <span class="quarto-category-count">(1)</span></div><div class="category" data-category="JUU1JUE1JTg3JUU1JUI5JUJC">奇幻 <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">说玩儿</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">理想</div>
-    <div class="quarto-category">职业</div>
-  </div>
-  </div>
+<h1 class="title">fantasy</h1>
+</div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>AnchoraCloud </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">June 29, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -356,17 +398,40 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>当人感到无聊时，心神如冰化为水，疏解到周围的空间里，仿佛即将消散，身体内部空无一物。为了阻止这一进程，人体自发地向外界寻求乐趣。于是精明的商人们就准备了各式的游戏，供人玩乐。从古至今，游戏的式样越发繁多，教人应接不暇。</p>
-<p>但我更愿意谈论的是另一种玩。它并不来自外界的施与，而发自内心——从心中升起的对某一事物的兴致。它受着自己的掌控，因而更值得细细玩味。《世说》里记载了一则小故事。王子猷是东晋的一位大名士。一日夜间，他自睡梦中忽然醒来，在家里徘徊、啸咏良久，突然起了拜访朋友戴逵的心思。于是即便命仆从备小舟出发。舟行了一夜，夹杂着下了点小雪，第二天凌晨终于到他朋友家门口。这时，他忽然对周围仆从说：“咱们回去罢。”有人不解其意，怎么折腾半夜，好容易到了，又不去呢？王子猷道：“吾本乘兴而行，兴尽而返，何必见戴？”显然，王子猷此行，只是在玩。想玩便玩，欲止则止，随“兴”而行，自周围事物中创造乐趣。试问这样得来的玩乐，又怎会丧我之志呢？</p>
-<p>玩的秘诀在于：全神贯注地做一件事，心底却并不把它当回事儿。</p>
-<p>这并不意味着对人生、对事业的轻佻，恰恰相反，越是爱玩的人，越有机会做成一些事。他在做事时，是很轻松的，不对结果感到担忧，也不受社会环境的限制，不必在意别人的评判，可以自由地发挥。王世襄把他的古玩玩着玩着就享誉中外了；列文虎克就是在看门的时候常玩放大镜，才成了“显微镜之父”。乘着兴致而做事，使人更能专注于事物本身，不受忧虑与外界的干扰。正因他把自己的工作看得没那么重要，就容易产生意外之喜。</p>
-<p>也正因着其目的的纯净，这些因玩而成功的人只是将成功看作副产品。爱玩的人、会玩的人能够从万事万物中创造乐趣，在无聊的世界里寻找到有趣之物。与这庞大的欢乐相比，成功带来的那点儿虚荣，也就不值一提了。王世襄总结自己一生时，绝口不提他那些荣誉、名作，只说“净玩儿了”。</p>
-<p>大贤罗素说：“这个世界上到处是神奇的东西，它们在耐心地等待着我们变得更有智慧。”我每每读到这句话，心神都不由为之一振，一种无言的激情占据了我的胸腔。为了能够得到我在满足兴致的那一瞬所获得的欢愉，我愿意去尝试、去追寻、去等待，而乐此不疲。然而，一旦达成了目标，兴已尽，仿佛突然从欢愉的山顶跌下，落到寂寞的深渊里。过一阵子，内心又变得空虚与无聊，心神又行将消散。我常常想，假如有一位大智者，他把世上所有有趣的事物都发现了，把所有有趣的道理都研究透了，而我恰巧出生在他之后的年代，那么我活得该多么浑浑噩噩、行尸走肉啊！这样的话，我宁愿自杀。如此说来，我们总应当寻找到这样一类“玩物”——我们终其一生都无法得到它或参透它，而它永远在“耐心地等待着”。于是，我们就永远拥有着做事的激情，内心有所憧憬。携上希冀的干粮，我们便可踏上永恒之旅。至于其余的玩物，不过是旅途中的调味品罢了。</p>
-<p>为了找到并确定这唯一的我们所钟意之物，我们需要作出选择。在这个一切东西都变得司空见惯的时代，尤其需要强大的辨别能力。但我们其实不必着急，沉静下来。每每对一件事产生了兴致，就抓住它，不让它从脑海里溜走，抛下一切全神贯注地去完成。久而久之，我们必然碰上“硬茬子”——仰之弥高，钻之弥坚，瞻之在前，忽焉在后。这时，我们便大可松一口气，再不用为心灵的空虚而忧愁了。在玩的道路上，每走一步，就有一步的乐趣；这种乐趣无穷无尽，同空虚感一道，延伸到渺远的未来，比生命本身更长久。</p>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="JUU1JUE1JTg3JUU1JUI5JUJCJTJDJUU3JTkwJTg2JUU2JTgzJUIzJTJDJUU2JTk3JTg1JUU4JUExJThD" data-listing-date-sort="1781020800000" data-listing-file-modified-sort="1781100644279" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="thumbnail"><a href="../../novels/fantasy/magic/index.html" class="no-external">
+
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../../novels/fantasy/magic/index.html" class="no-external">魔杖指向何方</a>
+</h3>
+<div class="listing-subtitle">
+<a href="../../novels/fantasy/magic/index.html" class="no-external"></a>
+</div>
+</div>
+<div class="metadata">
+<a href="../../novels/fantasy/magic/index.html" class="no-external">
+<div class="listing-date">
+2026年6月10日
+</div>
+<div class="listing-author">
+AnchoraCloud
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">无匹配项</div>
+</div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right
@@ -405,12 +470,12 @@ ul.task-list li input[type="checkbox"] {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "已复制");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "已复制");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",

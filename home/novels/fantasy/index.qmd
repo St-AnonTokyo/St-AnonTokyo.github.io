@@ -1,0 +1,11 @@
+---
+title: "fantasy"
+lang: "zh"
+comments: false
+listing:
+    type: default
+    categories: true
+    fields: [title,subtitle,author,image,date]
+    contents:
+        - "/magic/index.qmd"
+---

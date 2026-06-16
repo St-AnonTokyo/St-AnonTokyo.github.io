@@ -7,6 +7,10 @@
     ]
   },
   {
+    "listing": "/novels/fantasy/magic/index.html",
+    "items": []
+  },
+  {
     "listing": "/articles/summary/index.html",
     "items": [
       "/articles/summary/s2022.html",
@@ -57,6 +61,12 @@
     "items": [
       "/novels/index.html",
       "/articles/index.html"
+    ]
+  },
+  {
+    "listing": "/novels/fantasy/index.html",
+    "items": [
+      "/novels/fantasy/magic/index.html"
     ]
   },
   {
