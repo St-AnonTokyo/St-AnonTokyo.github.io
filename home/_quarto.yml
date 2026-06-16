@@ -9,7 +9,7 @@ website:
   repo-url: https://github.com/st-anontokyo/st-anontokyo.github.io
   announcement:
     icon: flag
-    dismissable: false
+    dismissable: true
     content: "<center>**欢迎光临我的个人博客!**</center>"
     type: info
     position: below-navbar
