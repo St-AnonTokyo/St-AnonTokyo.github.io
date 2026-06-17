@@ -53,6 +53,13 @@ body{
     padding:0 5px 20px 5px;
 }
 
+main.content{
+    padding-left: 3rem !important;
+    padding-right: 2rem !important;
+    max-width:800px;
+    margin: 0 auto;
+}
+
 h1{
     font-size:60px;
     font-family: "Noto Serif SC", serif;
