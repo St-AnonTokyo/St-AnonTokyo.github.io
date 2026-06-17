@@ -57,6 +57,10 @@ body{
     width: 150px !important;  /* 默认可能是 250px 或更多，改小试试 */
 }
 
+#quarto-content {
+    max-width: 100% !important;
+}
+
 main.content{
     padding-left: 3rem !important;
     padding-right: 2rem !important;
