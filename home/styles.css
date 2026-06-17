@@ -53,6 +53,10 @@ body{
     padding:0 5px 20px 5px;
 }
 
+#quarto-margin-sidebar {
+    width: 150px !important;  /* 默认可能是 250px 或更多，改小试试 */
+}
+
 main.content{
     padding-left: 3rem !important;
     padding-right: 2rem !important;
