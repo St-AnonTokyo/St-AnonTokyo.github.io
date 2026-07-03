@@ -45,6 +45,7 @@ website:
     tools: 
       - icon: github
         href: https://github.com/St-AnonTokyo/St-AnonTokyo.github.io
+        title: "前往仓库"
     left:
       - text: "起始页"
         href: https://st-anontokyo.github.io
@@ -82,6 +83,7 @@ format:
           <link rel="preconnect" href="https://fonts.googleapis.com"> <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&family=Noto+Sans+SC:wght@100..900&family=Noto+Serif+SC:wght@200..900&display=swap" rel="stylesheet">
           <link rel="icon" type="image/png" sizes="32x32" href="/apple-touch-icon.png"/>
           <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+          <script data-goatcounter="https://anon.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 
 
 

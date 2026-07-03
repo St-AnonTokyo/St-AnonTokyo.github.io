@@ -1,6 +1,6 @@
 ---
 title: "fantasy"
-lang: "zh"
+lang: "en"
 comments: false
 listing:
     type: default
@@ -9,3 +9,5 @@ listing:
     contents:
         - "/magic/index.qmd"
 ---
+
+可以长篇大论的幻想

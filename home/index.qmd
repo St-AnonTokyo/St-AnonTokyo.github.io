@@ -15,7 +15,7 @@ lang: zh
 
 在大一学年的课程学习中，我参考了很多前辈的笔记本，并从中受益良多。💡这启发了我：我也可以搭建一个属于自己的个人博客，用于记录与思索。但鉴于本人水平有限，对课内知识的掌握程度还远没有到能教授别人的层次，所以会更多地放一些与学业无关的内容，以供消闲解闷。
 
-这个网站主要是借助<a href="https://quarto.org/" alt="quarto官网">Quarto</a>搭建的。目前网站的功能还比较少，但随着我的进一步探索，它以后大概会越来越丰富。
+这个网站主要是借助<a href="https://quarto.org/" title="quarto官网">Quarto</a>搭建的。目前网站的功能还比较少，但随着我的进一步探索，它以后大概会越来越丰富。
 
 ### 这个网站的未来
 
@@ -25,7 +25,7 @@ lang: zh
 
 ### 订阅
 
-您可以使用<a href="https://zhuanlan.zhihu.com/p/715661253">RSS阅读器</a>订阅本网站，订阅后您会收到一些内容的更新提醒。
+您可以使用<a href="https://zhuanlan.zhihu.com/p/715661253" title= "订阅指南">RSS阅读器</a>订阅本网站，订阅后您会收到一些内容的更新提醒。
 
 ::: {.callout-note collapse="true"}
 ### 订阅链接
@@ -44,7 +44,7 @@ https://st-anontokyo.github.io/home/feed.xml
 
 ::: {.callout-tip collapse="true"}
 ### 神秘的二维码
-<img src="money.png" alt="收款码"/>
+<img src="money.png" title="收款码"/>
 
 :::
 

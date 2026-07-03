@@ -1,4 +1,6 @@
-/* css styles */
+
+@import url('https://fonts.googleapis.com/earlyaccess/cwtexfangsong.css');
+
 .noto-sans-sc-header {
   font-family: "Noto Sans SC", sans-serif;
   font-optical-sizing: auto;
@@ -11,6 +13,13 @@
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+}
+
+.fangsong-regular{
+    font-family: "cwtexfangsong";
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
 
 .ma-shan-zheng-regular {
@@ -88,7 +97,7 @@ h2{
 }
 
 p{
-    font-family: "Noto Serif SC", serif;
+    font-family: "cwtexfangsong", serif;
     font-size: clamp(16px,2.5vw,20px);
     line-height:1.2;
     letter-spacing:1px;
@@ -97,7 +106,7 @@ p{
 }
 
 li{
-    font-family: "Noto Serif SC", serif;
+    font-family: "cwtexfangsong", serif;
     font-size:20px;
     line-height:1.5;
     letter-spacing:1px;
