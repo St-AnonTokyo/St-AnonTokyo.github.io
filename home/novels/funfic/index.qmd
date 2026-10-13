@@ -1,0 +1,11 @@
+---
+title: "同人"
+description: "originates from existent animes/fictions/games"
+comments: false
+listing:
+    type: default
+    categories: true
+    fields: [title,subtitle,author,image,date]
+---
+
+一些同人文，全部来自百合番（广义，包含轻百）。

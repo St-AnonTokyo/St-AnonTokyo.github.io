@@ -14,6 +14,7 @@ listing:
     - "/essays/index.qmd"
     - "/argument/index.qmd"
     - "/poems/index.qmd"
+    - "/yuri/index.qmd"
 ---
 
 这里存放着我写过的一些文章

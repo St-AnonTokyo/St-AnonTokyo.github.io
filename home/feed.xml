@@ -10,7 +10,7 @@
 <atom:link href="https://st-anontokyo.github.io/home/feed.xml" rel="self" type="application/rss+xml"/>
 <description>It&#39;s a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment.</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Fri, 03 Jul 2026 09:21:10 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 15:43:19 GMT</lastBuildDate>
 <item>
   <title>小说</title>
   <link>https://st-anontokyo.github.io/home/novels/</link>
@@ -28,11 +28,11 @@
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1779277388918" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1784556094925" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="../novels/short/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://st-anontokyo.github.io/home/novels/short/bird.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/novels/short/bird.webp" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -53,7 +53,7 @@
 <div class="listing-no-matching d-none">无匹配项</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
   <guid>https://st-anontokyo.github.io/home/novels/</guid>
-  <pubDate>Fri, 03 Jul 2026 09:21:10 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 15:43:19 GMT</pubDate>
 </item>
 <item>
   <title>文章</title>
@@ -129,11 +129,11 @@
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1779790943603" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1784556094917" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="../articles/summary/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/summary/sense.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/summary/sense.webp" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -148,11 +148,30 @@
 </div>
 </div></a>
 </div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1791906189738" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../articles/yuri/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/yuri/kiss.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+GL
+</h5>
+<div class="card-subtitle listing-subtitle">
+合集
+</div>
+<div class="card-text listing-description delink">
+<p>arguments on girls’ love</p>
+</div>
+</div>
+</div></a>
+</div>
 </div>
 <div class="listing-no-matching d-none">无匹配项</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
   <guid>https://st-anontokyo.github.io/home/articles/</guid>
-  <pubDate>Fri, 03 Jul 2026 09:21:10 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 15:43:19 GMT</pubDate>
 </item>
 </channel>
 </rss>
