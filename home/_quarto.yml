@@ -60,13 +60,17 @@ website:
             href: articles/summary/index.qmd
           - text: "随笔"
             href: articles/essays/index.qmd
+          - text: "议论"
+            href: articles/argument/index.qmd
+          - text: "诗歌"
+            href: articles/poems/index.qmd
+          - text: "梦"
+            href: articles/dreams/index.qmd
       - text: "小说"
         href: novels/index.qmd
         menu:
           - text: "短篇"
             href: novels/short/index.qmd
-      - text: "笔记"
-        href: 401.html
 
 
 format:

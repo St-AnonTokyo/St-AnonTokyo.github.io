@@ -7,6 +7,8 @@ lang: zh
 
 这是一个个人网站，里面记录了一些我的文字。大概没有什么用处。
 
+也许<a href="https://st-anontokyo.github.io/notebook/">我的笔记本</a>会更有用一些。
+
 ### 什么是抛锚的云？
 
 <a href= "https://st-anontokyo.github.io">起始页</a>
