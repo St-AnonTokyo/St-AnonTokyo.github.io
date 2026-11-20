@@ -3,7 +3,7 @@ title: "议论"
 subtitle: "合集"
 description: "argue for the truth"
 comments: false
-image: "angry.jpg"
+image: "angry.webp"
 listing:
     type: table
     categories: true

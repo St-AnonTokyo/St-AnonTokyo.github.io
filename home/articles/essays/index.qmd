@@ -2,7 +2,7 @@
 title: "随笔"
 subtitle: "合集"
 description: "some short essays"
-image: "essay.jpg"
+image: "essay.webp"
 comments: false
 listing:
     type: table

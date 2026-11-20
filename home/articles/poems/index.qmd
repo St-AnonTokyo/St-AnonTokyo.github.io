@@ -2,7 +2,7 @@
 title: "诗歌"
 subtitle: "合集"
 description: "some short poems"
-image: "poem.jpg"
+image: "poem.webp"
 comments: false
 listing:
     type: table

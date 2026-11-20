@@ -3,11 +3,11 @@ title: "从沙漠到天空"
 subtitle: "偶遇"
 author: "AnchoraCloud"
 date: "2023-06-30"
-image: "desert.jpg"
+image: "desert.webp"
 categories: [工业化,同人,理想]
 ---
 
-<img src="desert.jpg" alt="desert"/>
+<img src="desert.webp" alt="desert"/>
 
 ## 序
 

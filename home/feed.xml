@@ -10,7 +10,7 @@
 <atom:link href="https://st-anontokyo.github.io/home/feed.xml" rel="self" type="application/rss+xml"/>
 <description>It&#39;s a personal blog of AnchoraCloud. Some articles, notes and thoughts will be published irregularly. You are welcome to view and comment.</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Fri, 20 Nov 2026 17:12:43 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 17:30:59 GMT</lastBuildDate>
 <item>
   <title>小说</title>
   <link>https://st-anontokyo.github.io/home/novels/</link>
@@ -53,7 +53,7 @@
 <div class="listing-no-matching d-none">无匹配项</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
   <guid>https://st-anontokyo.github.io/home/novels/</guid>
-  <pubDate>Fri, 20 Nov 2026 17:12:43 GMT</pubDate>
+  <pubDate>Fri, 20 Nov 2026 17:30:59 GMT</pubDate>
 </item>
 <item>
   <title>文章</title>
@@ -72,11 +72,11 @@
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1795190582068" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1795195823369" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="../articles/essays/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/essays/essay.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/essays/essay.webp" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -91,11 +91,11 @@
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1779284611148" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1795195823374" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="../articles/poems/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/poems/poem.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/poems/poem.webp" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -110,11 +110,11 @@
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1779790348079" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1795195823365" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="../articles/argument/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/argument/angry.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="https://st-anontokyo.github.io/home/articles/argument/angry.webp" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -167,7 +167,7 @@
 <div class="listing-no-matching d-none">无匹配项</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> 回到顶部</a> ]]></description>
   <guid>https://st-anontokyo.github.io/home/articles/</guid>
-  <pubDate>Fri, 20 Nov 2026 17:12:43 GMT</pubDate>
+  <pubDate>Fri, 20 Nov 2026 17:30:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
